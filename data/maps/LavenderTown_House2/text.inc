@@ -1,47 +1,47 @@
 LavenderTown_House2_Text_WantMeToRateNicknames::
-    .string "Hello, hello!\n"
-    .string "I am the official NAME RATER!\p"
-    .string "Want me to rate the nicknames of\n"
-    .string "your POKéMON?$"
+    .string "¡Hola, hola!\n"
+    .string "¡Soy el INSPECTOR DE APODOS!\p"
+    .string "¿Quieres que evalue los apodos de\n"
+    .string "tus POKéMON?$"
 
 LavenderTown_House2_Text_CritiqueWhichMonsNickname::
-    .string "Which POKéMON's nickname should\n"
-    .string "I critique?$"
+    .string "¿Que apodo de POKéMON debería\n"
+    .string "evaluar?$"
 
 LavenderTown_House2_Text_GiveItANicerName::
-    .string "{STR_VAR_1}, is it?\n"
-    .string "That is a decent nickname!\p"
-    .string "But, would you like me to give it\n"
-    .string "a nicer name?\p"
-    .string "How about it?$"
+    .string "¿{STR_VAR_1}, cierto?\n"
+    .string "¡Ese es un nombre decente!\p"
+    .string "Pero, ¿te gustaría darle uno\n"
+    .string "mejor?\p"
+    .string "¿Que te parece?$"
 
 LavenderTown_House2_Text_WhatShallNewNicknameBe::
-    .string "Ah, good. Then, what shall the new\n"
-    .string "nickname be?$"
+    .string "Ah, bien. Entonces, ¿cúal será el\n"
+    .string "nuevo apodo?$"
 
 LavenderTown_House2_Text_FromNowOnShallBeKnownAsName::
-    .string "Done! From now on, this POKéMON\n"
-    .string "shall be known as {STR_VAR_1}!\p"
-    .string "It is a better name than before!\n"
-    .string "How fortunate for you!$"
+    .string "¡Hecho! de ahora en adelante, este\n"
+    .string "POKéMON se llamará {STR_VAR_1}!\p"
+    .string "¡Tiene un mejor nombre que antes!\n"
+    .string "¡Sí que tienes suerte!$"
 
 LavenderTown_House2_Text_ISeeComeVisitAgain::
-    .string "I see.\n"
-    .string "Do come visit again.$"
+    .string "Ya veo.\n"
+    .string "Vuelve cuando quieras.$"
 
 LavenderTown_House2_Text_FromNowOnShallBeKnownAsSameName::
-    .string "Done! From now on, this POKéMON\n"
-    .string "shall be known as {STR_VAR_1}!\p"
-    .string "It looks no different from before,\n"
-    .string "and yet, this is vastly superior!\p"
-    .string "How fortunate for you!$"
+    .string "¡Hecho! de ahora en adelante, este\n"
+    .string "POKéMON se llamará {STR_VAR_1}!\p"
+    .string "Se ve igual que antes, pero\n"
+    .string "aún así, ¡es vastamente superior!\p"
+    .string "¡Sí que tienes suerte!$"
 
 LavenderTown_House2_Text_TrulyImpeccableName::
-    .string "{STR_VAR_1}, is it?\n"
-    .string "That is a truly impeccable name!\p"
-    .string "Take good care of {STR_VAR_1}!$"
+    .string "¿{STR_VAR_1}, cierto?\n"
+    .string "¡Es un nombre realmente impecable!\p"
+    .string "¡Cuida bien a {STR_VAR_1}!$"
 
 LavenderTown_House2_Text_ThatIsMerelyAnEgg::
-    .string "Now, now.\n"
-    .string "That is merely an EGG!$"
+    .string "Espera, espera.\n"
+    .string "¡Eso es solo un HUEVO!$"
 

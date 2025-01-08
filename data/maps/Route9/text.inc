@@ -1,106 +1,106 @@
 Route9_Text_AliciaIntro::
-    .string "You have POKéMON with you!\n"
-    .string "You're mine!$"
+    .string "¡Tienes POKéMON contigo!\n"            /* (E) "You have POKéMON with you!\n" */
+    .string "¡Eres mí{OA}!$"                        /* (E) "You're mine!$" */
 
 Route9_Text_AliciaDefeat::
-    .string "You deceived me…$"
+    .string "Me engañaste…$"                        /* (E) "You deceived me…$" */
 
 Route9_Text_AliciaPostBattle::
-    .string "The tunnel coming up is pitch-black\n"
-    .string "inside.\p"
-    .string "You'll need FLASH to get through\n"
-    .string "there.$"
+    .string "El túnel cerca de aquí está\n"         /* (E) "The tunnel coming up is pitch-black\n" */
+    .string "totalmente oscuro.\p"                  /* (E) "inside.\p" */
+    .string "Necesitarás DESTELLO para poder\n"     /* (E) "You'll need FLASH to get through\n" */
+    .string "cruzarlo.$"                            /* (E) "there.$" */
 
 Route9_Text_ChrisIntro::
-    .string "Who's that walking there with those\n"
-    .string "good-looking POKéMON?$"
+    .string "¿Quién anda ahí con esos POKéMON\n"    /* (E) "Who's that walking there with those\n" */
+    .string "de tan buen aspecto?$"                 /* (E) "good-looking POKéMON?$" */
 
 Route9_Text_ChrisDefeat::
-    .string "Out like a light!$"
+    .string "¡Apagado como una luz!$"               /* (E) "Out like a light!$" */
 
 Route9_Text_ChrisPostBattle::
-    .string "Keep walking!$"
+    .string "¡Sigue caminando!$"                    /* (E) "Keep walking!$" */
 
 Route9_Text_DrewIntro::
-    .string "I'm taking the ROCK TUNNEL to\n"
-    .string "go to LAVENDER…$"
+    .string "Tomaré el TÚNEL ROCA para ir a\n"      /* (E) "I'm taking the ROCK TUNNEL to\n" */
+    .string "PUEBLO LAVANDA…$"                      /* (E) "go to LAVENDER…$" */
 
 Route9_Text_DrewDefeat::
-    .string "Can't measure up…$"
+    .string "No me puedo comparar…$"                /* (E) "Can't measure up…$" */
 
 Route9_Text_DrewPostBattle::
-    .string "Are you off to ROCK TUNNEL, too?$"
+    .string "¿Vas a ir al TÚNEL ROCA también?$"     /* (E) "Are you off to ROCK TUNNEL, too?$" */
 
 Route9_Text_CaitlinIntro::
-    .string "Don't you dare patronize me!$"
+    .string "¡No te atrevas a subestimarme!$"       /* (E) "Don't you dare patronize me!$" */
 
 Route9_Text_CaitlinDefeat::
-    .string "No!\n"
-    .string "You're too much.$"
+    .string "¡No!\n"                                /* (E) "No!\n" */
+    .string "Eres demasiado.$"                      /* (E) "You're too much.$" */
 
 Route9_Text_CaitlinPostBattle::
-    .string "You're obviously talented.\n"
-    .string "Good luck to you!$"
+    .string "Obviamente eres talentos{OA}.\n"       /* (E) "You're obviously talented.\n" */
+    .string "¡Buena suerte para ti!$"               /* (E) "Good luck to you!$" */
 
 Route9_Text_JeremyIntro::
-    .string "Bwahaha!\n"
-    .string "Great! I was bored, eh!$"
+    .string "¡Muajaja!\n"                           /* (E) "Bwahaha!\n" */
+    .string "¡Qué bien! ¡Estaba aburrido, eh!$"     /* (E) "Great! I was bored, eh!$" */
 
 Route9_Text_JeremyDefeat::
-    .string "Keep it coming, eh!\p"
-    .string "Oh wait.\n"
-    .string "I'm out of POKéMON!$"
+    .string "¡No te detengas, eh!\p"                /* (E) "Keep it coming, eh!\p" */
+    .string "Oh, espera.\n"                         /* (E) "Oh wait.\n" */
+    .string "¡Me quede sin POKéMON!$"               /* (E) "I'm out of POKéMON!$" */
 
 Route9_Text_JeremyPostBattle::
-    .string "You sure had guts standing up to\n"
-    .string "me there, eh?$"
+    .string "¿Sí que tuviste agallas para\n"        /* (E) "You sure had guts standing up to\n" */
+    .string "enfrentarme, eh?$"                     /* (E) "me there, eh?$" */
 
 Route9_Text_BriceIntro::
-    .string "Hahaha!\n"
-    .string "Aren't you a little toughie!$"
+    .string "¡Jajaja!\n"                            /* (E) "Hahaha!\n" */
+    .string "¿Te crees muy rudo, no es así?$"       /* (E) "Aren't you a little toughie!$" */
 
 Route9_Text_BriceDefeat::
-    .string "What's that?$"
+    .string "¿Qué es eso?$"                         /* (E) "What's that?$" */
 
 Route9_Text_BricePostBattle::
-    .string "Hahaha!\n"
-    .string "Kids should be tough!$"
+    .string "¡Jajaja!\n"                            /* (E) "Hahaha!\n" */
+    .string "¡Los niños deben ser duros!$"          /* (E) "Kids should be tough!$" */
 
 Route9_Text_BrentIntro::
-    .string "I got up early every day to raise\n"
-    .string "my POKéMON from cocoons!$"
+    .string "¡Madrugo todos los días para criar\n"  /* (E) "I got up early every day to raise\n" */
+    .string "a mis POKéMON desde capullos!$"        /* (E) "my POKéMON from cocoons!$" */
 
 Route9_Text_BrentDefeat::
-    .string "WHAT?\p"
-    .string "What a total waste of time!$"
+    .string "¿QUÉ?\p"                               /* (E) "WHAT?\p" */
+    .string "¡Qué gran pérdida de tiempo!$"         /* (E) "What a total waste of time!$" */
 
 Route9_Text_BrentPostBattle::
-    .string "I have to collect more than bugs\n"
-    .string "to get stronger…$"
+    .string "Tengo que atrapar algo más que\n"      /* (E) "I have to collect more than bugs\n" */
+    .string "insectos para volverme más fuerte…$"     /* (E) "to get stronger…$" */
 
 Route9_Text_AlanIntro::
-    .string "Hahahaha!\n"
-    .string "Bring it on!$"
+    .string "¡Jajajaja!\n"                          /* (E) "Hahahaha!\n" */
+    .string "¡Adelante!$"                           /* (E) "Bring it on!$" */
 
 Route9_Text_AlanDefeat::
-    .string "Hahahaha!\n"
-    .string "You beat me fair!$"
+    .string "¡Jajajaja!\n"                          /* (E) "Hahahaha!\n" */
+    .string "¡Me venciste justamente!$"             /* (E) "You beat me fair!$" */
 
 Route9_Text_AlanPostBattle::
-    .string "Hahahaha!\n"
-    .string "Us hearty guys always laugh!$"
+    .string "¡Jajajaja!\n"                          /* (E) "Hahahaha!\n" */
+    .string "¡Los robustos siempre nos reímos!$"    /* (E) "Us hearty guys always laugh!$" */
 
 Route9_Text_ConnerIntro::
-    .string "Go, my super BUG POKéMON!$"
+    .string "¡Vamos, súper POKéMON INSECTOS!$"      /* (E) "Go, my super BUG POKéMON!$" */
 
 Route9_Text_ConnerDefeat::
-    .string "My bugs…$"
+    .string "Mis insectos…$"                        /* (E) "My bugs…$" */
 
 Route9_Text_ConnerPostBattle::
-    .string "If you don't like BUG POKéMON,\n"
-    .string "you bug me!$"
+    .string "¡Si no te gustan los POKéMON\n"        /* (E) "If you don't like BUG POKéMON,\n" */
+    .string "INSECTO, me molestas!$"                /* (E) "you bug me!$" */
 
 Route9_Text_RouteSign::
-    .string "ROUTE 9\n"
-    .string "CERULEAN CITY - ROCK TUNNEL$"
+    .string "RUTA 9\n"                              /* (E) "ROUTE 9\n" */
+    .string "CIUDAD CELESTE - TÚNEL ROCA$"          /* (E) "CERULEAN CITY - ROCK TUNNEL$" */
 

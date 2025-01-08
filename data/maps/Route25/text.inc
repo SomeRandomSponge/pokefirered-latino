@@ -1,119 +1,119 @@
 Route25_Text_JoeyIntro::
-    .string "Local TRAINERS come here to\n"
-    .string "practice.$"
+    .string "ENTRENADORES locales vienen aquí\n"
+    .string "a practicar.$"
 
 Route25_Text_JoeyDefeat::
-    .string "You're decent.$"
+    .string "Eres decente.$"
 
 Route25_Text_JoeyPostBattle::
-    .string "All POKéMON have weaknesses.\n"
-    .string "Even the strongest ones.\p"
-    .string "That's why it's best to raise\n"
-    .string "POKéMON of different types.$"
+    .string "Cada POKéMON tienen debilidades.\n"
+    .string "Incluso los más fuertes.\p"
+    .string "Es por eso que es mejor criar a\n"
+    .string "POKéMON de diferentes tipos.$"
 
 Route25_Text_DanIntro::
-    .string "Dad took me to a great party on\n"
-    .string "the S.S. ANNE at VERMILION CITY.$"
+    .string "Papá me llevó a una gran fiesta en\n"
+    .string "el SANTA ANA en CIUDAD CARMÍN.$"
 
 Route25_Text_DanDefeat::
-    .string "I'm not mad!$"
+    .string "¡No estoy enojado!$"
 
 Route25_Text_DanPostBattle::
-    .string "On the S.S. ANNE, I saw TRAINERS\n"
-    .string "from around the world.$"
+    .string "En el SANTA ANA, ví ENTRENADORES\n"
+    .string "de todas partes del mundo.$"
 
 Route25_Text_FlintIntro::
-    .string "I'm a cool guy.\n"
-    .string "I've got a girlfriend!$"
+    .string "Soy un chico genial.\n"
+    .string "¡Tengo una novia!$"
 
 Route25_Text_FlintDefeat::
-    .string "Aww, darn…$"
+    .string "Aww, rayos…$"
 
 Route25_Text_FlintPostBattle::
-    .string "Oh, well.\n"
-    .string "My girlfriend will cheer me up.$"
+    .string "Oh, bueno.\n"
+    .string "Mi novia me animará.$"
 
 Route25_Text_KelseyIntro::
-    .string "Hi!\n"
-    .string "My boyfriend is cool!$"
+    .string "¡Hola!\n"
+    .string "¡Mi novio es genial!$"
 
 Route25_Text_KelseyDefeat::
-    .string "My conditioning isn't the best…$"
+    .string "No estoy en la mejor forma…$"
 
 Route25_Text_KelseyPostBattle::
-    .string "I wish my boyfriend was as good\n"
-    .string "as you.$"
+    .string "Ojalá mi novio fuera tan bueno\n"
+    .string "cómo tu.$"
 
 Route25_Text_ChadIntro::
-    .string "I had this feeling…\n"
-    .string "I knew I had to battle you!$"
+    .string "Tenía esta sensación…\n"
+    .string "¡Sabía que tenía que enfrentarte!$"
 
 Route25_Text_ChadDefeat::
-    .string "I knew I'd lose, too!$"
+    .string "¡También sabía que perdería!$"
 
 Route25_Text_ChadPostBattle::
-    .string "If your POKéMON gets confused,\n"
-    .string "switch it out.\p"
-    .string "That's a good tactic.$"
+    .string "Si tu POKéMON está confuso en\n"
+    .string "batalla, usa a otro en su lugar.\p"
+    .string "Esa es una buena táctica.$"
 
 Route25_Text_HaleyIntro::
-    .string "My friend has many cute POKéMON.\n"
-    .string "I'm so jealous!$"
+    .string "Mi amigo tiene muchos POKéMON\n"
+    .string "lindos. ¡Me da mucha envidia!$"
 
 Route25_Text_HaleyDefeat::
-    .string "I'm not so jealous!$"
+    .string "¡No tengo tanta envidia!$"
 
 Route25_Text_HaleyPostBattle::
-    .string "You came from MT. MOON?\n"
-    .string "May I have a CLEFAIRY?$"
+    .string "¿Vienes del MONTE LUNA?\n"
+    .string "¿Me podrías dar un CLEFAIRY?$"
 
 Route25_Text_FranklinIntro::
-    .string "I just got down from MT. MOON,\n"
-    .string "but I've still got gas in the tank!$"
+    .string "Acabo de bajar del MONTE LUNA,\n"
+    .string "¡pero aún me queda energía!$"
 
 Route25_Text_FranklinDefeat::
-    .string "You worked hard!$"
+    .string "¡Trabajaste duro!$"
 
 Route25_Text_FranklinPostBattle::
-    .string "Drat!\n"
-    .string "A ZUBAT bit me back in that cave.$"
+    .string "¡Rayos!\n"
+    .string "Un ZUBAT me mordió en esa cueva.$"
 
 Route25_Text_NobIntro::
-    .string "I'm off to see a POKéMANIAC's\n"
-    .string "collection at the cape.$"
+    .string "Voy a ver la colección de un\n"
+    .string "POKéMANÍACO en el cabo.$"
 
 Route25_Text_NobDefeat::
-    .string "You done got me, and real good,\n"
-    .string "too!$"
+    .string "Me venciste, ¡y además lo hiciste\n"
+    .string "muy bien!$"
 
 Route25_Text_NobPostBattle::
-    .string "The POKéMANIAC sure lives up to\n"
-    .string "his name.\p"
-    .string "His collection includes many rare\n"
-    .string "species of POKéMON.$"
+    .string "Ese POKéMANÍACO si que le es fiel\n"
+    .string "a su nombre.\p"
+    .string "Su colección incluye muchas\n"
+    .string "especies raras de POKéMON.$"
 
 Route25_Text_WayneIntro::
-    .string "You're going to see BILL?\n"
-    .string "First, we battle!$"
+    .string "¿Vas a ver a BILL?\n"
+    .string "¡Primero, luchemos!$"
 
 Route25_Text_WayneDefeat::
-    .string "You're something.$"
+    .string "Me rindo.$"
 
 Route25_Text_WaynePostBattle::
-    .string "The trail below is a shortcut to\n"
-    .string "CERULEAN CITY.$"
+    .string "La ruta debajo es un atajo a\n"
+    .string "CUIDAD CELESTE.$"
 
 Route25_Text_SeaCottageSign::
-    .string "SEA COTTAGE\n"
-    .string "BILL lives here!$"
+    .string "CASA DEL MAR\n"
+    .string "¡BILL vive aquí!$"
 
 Route25_Text_MistyHighHopesAboutThisPlace::
-    .string "This cape is a famous date spot.\p"
-    .string "MISTY, the GYM LEADER, has high\n"
-    .string "hopes about this place.$"
+    .string "Este cabo es famoso para las citas.\p"
+    .string "MISTY, la LÍDER DE GIMNASIO, tiene\n"
+    .string "altas esperanzas sobre este lugar.$"
 
 Route25_Text_AreYouHereAlone::
-    .string "Hello, are you here alone?\p"
-    .string "If you're out at CERULEAN's cape…\n"
-    .string "Well, it should be as a couple.$"
+    .string "Hola, ¿estás sol{OA}?\p"
+    .string "Si estás en el CABO CELESTE…\n"
+    .string "Bueno, debería ser con una pareja.$"
 

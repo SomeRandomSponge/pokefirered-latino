@@ -1,67 +1,68 @@
 LavenderTown_PokemonCenter_1F_Text_HearMrFujiNotFromAroundHere::
-    .string "I recently moved to this town.\p"
-    .string "I hear that MR. FUJI's not from\n"
-    .string "these parts originally, either.$"
+    .string "Acabo de mudarme a este pueblo.\p"
+    .string "Escuché que el SR. FUJI tampoco es\n"
+    .string "de por aquí.$"
 
 LavenderTown_VolunteerPokemonHouse_Text_WhereDidMrFujiGo::
-    .string "That's odd, MR. FUJI isn't here.\n"
-    .string "Where'd he go?$"
+    .string "Que raro, el SR. FUJI no está.\n"
+    .string "¿Adónde se fue?$"
 
 LavenderTown_VolunteerPokemonHouse_Text_MrFujiWasPrayingForCubonesMother::
-    .string "MR. FUJI had been praying alone\n"
-    .string "for CUBONE's mother.$"
+    .string "El SR. FUJI estaba rezando por\n"
+    .string "la madre de CUBONE a solas.$"
 
 LavenderTown_VolunteerPokemonHouse_Text_MrFujiLooksAfterOrphanedMons::
-    .string "This is really MR. FUJI's house.\p"
-    .string "He's really kind.\p"
-    .string "He looks after abandoned and\n"
-    .string "orphaned POKéMON.$"
+    .string "Esta es la casa del SR. FUJI.\p"
+    .string "Es muy amable.\p"
+    .string "Él cuida de los POKéMON huérfanos\n"
+    .string "y abandonados.$"
 
 LavenderTown_VolunteerPokemonHouse_Text_MonsNiceToHug::
-    .string "It's so warm!\n"
-    .string "POKéMON are so nice to hug.$"
+    .string "¡Es tan cálido!\n"
+    .string "Los POKéMON son agradables de\l"
+    .string "abrazar.$"
 
 LavenderTown_VolunteerPokemonHouse_Text_Nidorino::
-    .string "NIDORINO: Gaoo!$"
+    .string "NIDORINO: ¡Gaoo!$"
 
 LavenderTown_VolunteerPokemonHouse_Text_Psyduck::
-    .string "PSYDUCK: Gwappa!$"
+    .string "PSYDUCK: ¡Gwappa!$"
 
 LavenderTown_VolunteerPokemonHouse_Text_IdLikeYouToHaveThis::
-    .string "MR. FUJI: {PLAYER}…\p"
-    .string "Your POKéDEX quest is one that\n"
-    .string "requires strong dedication.\p"
-    .string "Without deep love for POKéMON,\n"
-    .string "your quest may fail.\p"
-    .string "I'm not sure if this will help you,\n"
-    .string "but I'd like you to have it.$"
+    .string "SR. FUJI: {PLAYER}…\p"
+    .string "Tu misión con la POKéDEX es una\n"
+    .string "que requiere una gran dedicación.\p"
+    .string "Sin un amor profundo por los\n"
+    .string "POKéMON, tu misión puede fallar.\p"
+    .string "No estoy seguro si esto ayudará,\n"
+    .string "pero quiero que lo tengas.$"
 
 LavenderTown_VolunteerPokemonHouse_Text_ReceivedPokeFluteFromMrFuji::
-    .string "{PLAYER} received a POKé FLUTE\n"
-    .string "from MR. FUJI.$"
+    .string "{PLAYER} recibió una POKé FLAUTA\n"
+    .string "del SR. FUJI.$"
 
 LavenderTown_VolunteerPokemonHouse_Text_ExplainPokeFlute::
-    .string "Upon hearing the POKé FLUTE,\n"
-    .string "sleeping POKéMON will spring awake.\p"
-    .string "Try using it on POKéMON that are\n"
-    .string "sleeping obstacles.$"
+    .string "Al escuchar la POKé FLAUTA,\n"
+    .string "un POKéMON dormido se levantará.\p"
+    .string "Intenta usarla en POKéMON que sean\n"
+    .string "obstáculos durmientes.$"
 
 LavenderTown_VolunteerPokemonHouse_Text_MustMakeRoomForThis::
-    .string "You must make room for this!$"
+    .string "¡Haz espacio para esto!$"
 
 LavenderTown_VolunteerPokemonHouse_Text_HasPokeFluteHelpedYou::
-    .string "MR. FUJI: Has my POKé FLUTE\n"
-    .string "helped you?$"
+    .string "SR. FUJI: ¿Te ha ayudado mi\n"
+    .string "POKé FLAUTA?$"
 
 LavenderTown_VolunteerPokemonHouse_Text_GrandPrizeDrawingClipped::
-    .string "POKéMON FAN MAGAZINE\n"
-    .string "Monthly Grand Prize Drawing!\p"
-    .string "The application form is…\p"
-    .string "Gone! It's been clipped out.\n"
-    .string "Someone must have applied already.$"
+    .string "REVISTA DE FANS DE POKéMON\n"
+    .string "¡Concurso mensual de dibujo!\p"
+    .string "El formulario de inscripción se…\p"
+    .string "¡Fue! lo cortaron de la revista.\n"
+    .string "Seguro alguien ya se inscribió.$"
 
 LavenderTown_VolunteerPokemonHouse_Text_PokemonMagazinesLineShelf::
-    .string "POKéMON magazines line the shelf.\p"
-    .string "POKéMON INSIDER…\p"
-    .string "POKéMON FAN…$"
+    .string "Hay revistas de POKéMON aquí.\p"
+    .string "INFORMANTE POKéMON…\p"
+    .string "FAN POKéMON…$"
 

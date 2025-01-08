@@ -1,86 +1,86 @@
 Route10_Text_MarkIntro::
-    .string "Wow, you came all the way here?\n"
-    .string "Maybe you're a POKéMANIAC, too?\l"
-    .string "Want to see my collection?$"
+    .string "¿Wow, viniste hasta aquí?\n"             /* (E) "Wow, you came all the way here?\n" */
+    .string "¿También eres un{OA} POKéMANÍAC{OAM}?\l" /* (E) "Maybe you're a POKéMANIAC, too?\l" */
+    .string "¿Quieres ver mi colección?$"             /* (E) "Want to see my collection?$" */
 
 Route10_Text_MarkDefeat::
-    .string "Humph.\n"
-    .string "I'm not angry!$"
+    .string "Humph.\n"                                /* (E) "Humph.\n" */
+    .string "¡No estoy molesto!$"                     /* (E) "I'm not angry!$" */
 
 Route10_Text_MarkPostBattle::
-    .string "I have more rare POKéMON at home!$"
+    .string "¡Tengo más POKéMON raros en casa!$"      /* (E) "I have more rare POKéMON at home!$" */
 
 Route10_Text_ClarkIntro::
-    .string "Ha-hahah-ah-ha!$"
+    .string "¡Ja-jaja-ja-ja!$"                        /* (E) "Ha-hahah-ah-ha!$" */
 
 Route10_Text_ClarkDefeat::
-    .string "Ha-haha!\n"
-    .string "Not laughing!\l"
-    .string "Ha-hay fever! Haha-ha-choo!$"
+    .string "¡Ja-jaja!\n"                             /* (E) "Ha-haha!\n" */
+    .string "¡No me río!\l"                           /* (E) "Not laughing!\l" */
+    .string "¡A-alergia! ¡A-a-a-chú!$"                /* (E) "Ha-hay fever! Haha-ha-choo!$" */
 
 Route10_Text_ClarkPostBattle::
-    .string "Haha-ha-choo!\n"
-    .string "Ha-choo!\l"
-    .string "Snort! Snivel!$"
+    .string "¡A-a-a-chú!\n"                           /* (E) "Haha-ha-choo!\n" */
+    .string "¡A-chú!\l"                               /* (E) "Ha-choo!\l" */
+    .string "¡A-chú! ¡Agh!$"                          /* (E) "Snort! Snivel!$" */
 
 Route10_Text_HermanIntro::
-    .string "Hi, kid!\n"
-    .string "Want to see my POKéMON?$"
+    .string "¡Hola, niñ{OA}!\n"                       /* (E) "Hi, kid!\n" */
+    .string "¿Quieres ver mis POKéMON?$"              /* (E) "Want to see my POKéMON?$" */
 
 Route10_Text_HermanDefeat::
-    .string "Oh, no!\n"
-    .string "My POKéMON!$"
+    .string "¡Oh, no!\n"                              /* (E) "Oh, no!\n" */
+    .string "¡Mis POKéMON!$"                          /* (E) "My POKéMON!$" */
 
 Route10_Text_HermanPostBattle::
-    .string "I don't like you.\n"
-    .string "I don't like anyone better than me!$"
+    .string "No me agradas.\n"                        /* (E) "I don't like you.\n" */
+    .string "¡No me agrada nadie mejor que yo!$"      /* (E) "I don't like anyone better than me!$" */
 
 Route10_Text_HeidiIntro::
-    .string "I've been out at a POKéMON GYM\n"
-    .string "a few times.\p"
-    .string "…But I always lose.$"
+    .string "He estado en un GIMNASIO POKéMON\n"      /* (E) "I've been out at a POKéMON GYM\n" */
+    .string "varias veces.\p"                         /* (E) "a few times.\p" */
+    .string "…Pero siempre pierdo.$"                  /* (E) "…But I always lose.$" */
 
 Route10_Text_HeidiDefeat::
-    .string "Ohh!\n"
-    .string "After all my training!$"
+    .string "¡Ohh!\n"                                 /* (E) "Ohh!\n" */
+    .string "¡Después de tanto entrenamiento!$"       /* (E) "After all my training!$" */
 
 Route10_Text_HeidiPostBattle::
-    .string "I noticed some POKéMANIACS\n"
-    .string "prowling around.\p"
-    .string "Can you imagine? Them?\n"
-    .string "Up here in the mountains?$"
+    .string "Ví a algunos POKéMANÍACOS\n"             /* (E) "I noticed some POKéMANIACS\n" */
+    .string "merodeando por aquí.\p"                  /* (E) "prowling around.\p" */
+    .string "¿Puedes imaginarlo? ¿Ellos?\n"           /* (E) "Can you imagine? Them?\n" */
+    .string "¿Aquí en las montañas?$"                 /* (E) "Up here in the mountains?$" */
 
 Route10_Text_TrentIntro::
-    .string "Ah!\n"
-    .string "This mountain air is delicious!$"
+    .string "¡Ah!\n"                                  /* (E) "Ah!\n" */
+    .string "¡El aire de montaña es delicioso!$"      /* (E) "This mountain air is delicious!$" */
 
 Route10_Text_TrentDefeat::
-    .string "That cleared my head!$"
+    .string "¡Eso aclaró mi cabeza!$"                 /* (E) "That cleared my head!$" */
 
 Route10_Text_TrentPostBattle::
-    .string "I feel bloated on mountain air!$"
+    .string "¡Me llené de aire de montaña!$"          /* (E) "I feel bloated on mountain air!$" */
 
 Route10_Text_CarolIntro::
-    .string "I'm feeling a bit faint.\n"
-    .string "I haven't hiked in some time.$"
+    .string "Me siento un poco débil.\n"              /* (E) "I'm feeling a bit faint.\n" */
+    .string "No he escalado desde hace tiempo.$"      /* (E) "I haven't hiked in some time.$" */
 
 Route10_Text_CarolDefeat::
-    .string "I'm too tired.\n"
-    .string "I wasn't up for it.$"
+    .string "Estoy demasiado cansada.\n"              /* (E) "I'm too tired.\n" */
+    .string "No estaba lista para esto.$"             /* (E) "I wasn't up for it.$" */
 
 Route10_Text_CarolPostBattle::
-    .string "The POKéMON here in the mountains\n"
-    .string "are so chunky…\p"
-    .string "I wish there were pink POKéMON\n"
-    .string "with a floral pattern!$"
+    .string "Los POKéMON aquí en las montañas\n"      /* (E) "The POKéMON here in the mountains\n" */
+    .string "son tan toscos…\p"                       /* (E) "are so chunky…\p" */
+    .string "¡Ojalá existiera un POKéMON\n"           /* (E) "I wish there were pink POKéMON\n" */
+    .string "rosado con flores!$"                     /* (E) "with a floral pattern!$" */
 
 Route10_Text_RockTunnelDetourToLavender::
-    .string "ROCK TUNNEL\n"
-    .string "Detour to LAVENDER TOWN$"
+    .string "TÚNEL ROCA\n"                            /* (E) "ROCK TUNNEL\n" */
+    .string "Desvío a PUEBLO LAVANDA$"                /* (E) "Detour to LAVENDER TOWN$" */
 
 Route10_Text_RockTunnel::
-    .string "ROCK TUNNEL$"
+    .string "TÚNEL ROCA$"                             /* (E) "ROCK TUNNEL$" */
 
 Route10_Text_PowerPlant::
-    .string "POWER PLANT$"
+    .string "CENTRAL ENERGÍA$"                        /* (E) "POWER PLANT$" */
 

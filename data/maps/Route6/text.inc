@@ -1,73 +1,73 @@
 Route6_Text_RickyIntro::
-    .string "Who's there?\n"
-    .string "Quit listening in on us!$"
+    .string "¿Quién esta ahí?\n"
+    .string "¡Deja de espiarnos!$"
 
 Route6_Text_RickyDefeat::
-    .string "I just can't win!$"
+    .string "¡No puedo ganar!$"
 
 Route6_Text_RickyPostBattle::
-    .string "Whisper…\n"
-    .string "Whisper…$"
+    .string "Susurro…\n"
+    .string "Susurro…$"
 
 Route6_Text_NancyIntro::
-    .string "Excuse me!\n"
-    .string "This is a private conversation!$"
+    .string "¡Disculpa!\n"
+    .string "¡Esta es una conversación privada!$"
 
 Route6_Text_NancyDefeat::
-    .string "Ugh!\n"
-    .string "I hate losing.$"
+    .string "¡Agh!\n"
+    .string "Odio perder.$"
 
 Route6_Text_NancyPostBattle::
-    .string "Whisper…\n"
-    .string "Whisper…$"
+    .string "Susurro…\n"
+    .string "Susurro…$"
 
 Route6_Text_KeigoIntro::
-    .string "There aren't many bugs out here.$"
+    .string "No hay muchos insectos por aquí.$"
 
 Route6_Text_KeigoDefeat::
-    .string "No!\n"
-    .string "You're kidding!$"
+    .string "¡No!\n"
+    .string "¡Estas bromeando!$"
 
 Route6_Text_KeigoPostBattle::
-    .string "I like bugs, so I'm going back to\n"
-    .string "VIRIDIAN FOREST.$"
+    .string "Me gustan los insectos, así que\n"
+    .string "voy a volver al BOSQUE VERDE.$"
 
 Route6_Text_JeffIntro::
-    .string "Huh?\n"
-    .string "You want to talk to me?$"
+    .string "¿Uh?\n"
+    .string "¿Quieres hablarme?$"
 
 Route6_Text_JeffDefeat::
-    .string "This stinks…\n"
-    .string "I couldn't beat your challenge…$"
+    .string "Esto apesta…\n"
+    .string "No pude vencer tu desafío…$"
 
 Route6_Text_JeffPostBattle::
-    .string "I should bring more POKéMON with\n"
-    .string "me. I'll feel safer that way.$"
+    .string "Debería traer más POKéMON conmigo.\n"
+    .string "Así me sentiré más seguro.$"
 
 Route6_Text_IsabelleIntro::
-    .string "Me?\n"
-    .string "Well, okay. I'll play!$"
+    .string "¿Yo?\n"
+    .string "Bueno, de acuerdo. ¡Jugaré!$"
 
 Route6_Text_IsabelleDefeat::
-    .string "Things just didn't work…$"
+    .string "Las cosas no funcionaron…$"
 
 Route6_Text_IsabellePostBattle::
-    .string "I want to get stronger.\n"
-    .string "What's your secret?$"
+    .string "Quiero volverme más fuerte.\n"
+    .string "¿Cuál es tu secreto?$"
 
 Route6_Text_ElijahIntro::
-    .string "I've never seen you around.\n"
-    .string "Are you good?$"
+    .string "Nunca te he visto por aquí.\n"
+    .string "¿Eres buen{OA}?$"
 
 Route6_Text_ElijahDefeat::
-    .string "You're too good!$"
+    .string "¡Eres demasiado buen{OA}!$"
 
 Route6_Text_ElijahPostBattle::
-    .string "Are my POKéMON weak?\n"
-    .string "Or, am I just bad?\l"
-    .string "Which do you think?$"
+    .string "¿Son mis POKéMON débiles?\n"
+    .string "O, ¿solo soy malo?\l"
+    .string "¿Tú que crees?$"
 
 Route6_Text_UndergroundPathSign::
-    .string "UNDERGROUND PATH\n"
-    .string "CERULEAN CITY - VERMILION CITY$"
+    .string "VÍA SUBTERRÁNEA\n"
+    .string "CIUDAD CELESTE - CIUDAD CARMÍN$"
 
