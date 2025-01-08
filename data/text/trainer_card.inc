@@ -1,24 +1,25 @@
 CeladonCity_GameCorner_Text_TryPokemonPrinter::
-	.string "It's a POKéMON PRINTER!\p"
-	.string "It can put a print of your POKéMON\n"
-	.string "on the back of your TRAINER CARD.\p"
-	.string "It costs only ¥50.\n"
-	.string "Would you like to try it?$"
+	.string "¡Es una IMPRESORA POKéMON!\p"
+	.string "Puede poner fotos de tu equipo\n"
+	.string "POKéMON en el reverso de tu\l"
+	.string "FICHA DE ENTRENADOR.\p"
+	.string "Solo cuesta ¥50.\n"
+	.string "¿Te gustaría probarla?$"
 
 CeladonCity_GameCorner_Text_DontHaveEnoughMoney::
-	.string "You don't have enough money.$"
+	.string "No tienes suficiente dinero.$"
 
 CeladonCity_GameCorner_Text_ChoosePrintType::
-	.string "Please choose the print type.$"
+	.string "Elija el tipo de impresión.$"
 
 CeladonCity_GameCorner_Text_BigSmileForPhoto::
-	.string "A big smile for the photo, please!\n"
-	.string "Three… Two… One…\p"
-	.string "Flash!$"
+	.string "¡Una gran sonrisa para la foto!\n"
+	.string "Tres… Dos… Uno…\p"
+	.string "¡Ya!$"
 
 CeladonCity_GameCorner_Text_PrintIsReadyCheckTrainerCard::
-	.string "Your POKéMON print is ready!\n"
-	.string "Check your TRAINER CARD.$"
+	.string "¡La impresión POKéMON está lista!\n"
+	.string "Revisa tu FICHA DE ENTRENADOR.$"
 
 FourIsland_House2_Text_WishICouldShowOffStickers::
 	.string "Giggle…\n"

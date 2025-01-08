@@ -279,6 +279,23 @@
 #define PLACEHOLDER_ID_GROUDON       0xC
 #define PLACEHOLDER_ID_KYOGRE        0xD
 
+#define PLACEHOLDER_ID_OA            0xE
+#define PLACEHOLDER_ID_A             0xF
+#define PLACEHOLDER_ID_ELLA          0x10
+#define PLACEHOLDER_ID_ElLa          0x11
+#define PLACEHOLDER_ID_ITA           0x12
+#define PLACEHOLDER_ID_ITOITA        0x13
+#define PLACEHOLDER_ID_EA            0x14
+#define PLACEHOLDER_ID_OAM           0x15
+#define PLACEHOLDER_ID_AM            0x16
+#define PLACEHOLDER_ID_EAM           0x17
+#define PLACEHOLDER_ID_ONONA         0x18
+#define PLACEHOLDER_ID_ONONAM        0x19
+#define PLACEHOLDER_ID_E             0x1A
+#define PLACEHOLDER_ID_ET            0x1B
+#define PLACEHOLDER_ID_INAT          0x1C
+#define PLACEHOLDER_ID_RRASOM        0x1D
+
 // Note that while all dot combinations are represented in
 // the Braille font, they are not all meaningful characters.
 // Only those that have direct single-character translations are listed.

@@ -9,6 +9,26 @@
 
 // Exported ROM declarations
 
+extern const u8 gExpandedPlaceholder_O[];
+extern const u8 gExpandedPlaceholder_A[];
+extern const u8 gExpandedPlaceholder_E[];
+extern const u8 gExpandedPlaceholder_EL[];
+extern const u8 gExpandedPlaceholder_LA[];
+extern const u8 gExpandedPlaceholder_El[];
+extern const u8 gExpandedPlaceholder_La[];
+extern const u8 gExpandedPlaceholder_ITA[];
+extern const u8 gExpandedPlaceholder_ITO[];
+extern const u8 gExpandedPlaceholder_ET[];
+extern const u8 gExpandedPlaceholder_OM[];
+extern const u8 gExpandedPlaceholder_AM[];
+extern const u8 gExpandedPlaceholder_EM[];
+extern const u8 gExpandedPlaceholder_ON[];
+extern const u8 gExpandedPlaceholder_ONA[];
+extern const u8 gExpandedPlaceholder_INAT[];
+extern const u8 gExpandedPlaceholder_ONM[];
+extern const u8 gExpandedPlaceholder_ONAM[];
+extern const u8 gExpandedPlaceholder_RRA[];
+extern const u8 gExpandedPlaceholder_SOM[];
 extern const u8 gText_FromSpace[];
 extern const u8 gText_Lv50[];
 extern const u8 gText_OpenLevel[];
@@ -509,6 +529,7 @@ extern const u8 gText_MysteryGift[];
 extern const u8 gText_WirelessNotConnected[];
 extern const u8 gText_MysteryGiftCantUse[];
 extern const u8 gText_Player[];
+extern const u8 gText_Player_Female[];
 extern const u8 gText_Time[];
 extern const u8 gText_Colon[];
 extern const u8 gText_Pokedex[];
@@ -642,6 +663,7 @@ extern const u8 gStartMenuDesc_Player[];
 extern const u8 gText_SaveError_PleaseExchangeBackupMemory[];
 extern const u8 gText_SavingDontTurnOffThePower2[];
 extern const u8 gSaveStatName_Player[];
+extern const u8 gSaveStatName_Player_Female[];
 extern const u8 gSaveStatName_Badges[];
 extern const u8 gSaveStatName_Pokedex[];
 extern const u8 gSaveStatName_Time[];
@@ -886,12 +908,14 @@ extern const u8 gText_ThreeQuestionMarks[];
 
 // hall_of_fame
 extern const u8 gText_LeagueChamp[];
+extern const u8 gText_LeagueChamp_Female[];
 extern const u8 gText_HOFNumber[];
 extern const u8 gText_UPDOWNPick_ABUTTONBBUTTONCancel[];
 extern const u8 gText_UPDOWNPick_ABUTTONNext_BBUTTONBack[];
 extern const u8 gText_ABUTTONExit[];
 extern const u8 gText_HOFCorrupted[];
 extern const u8 gText_WelcomeToHOF[];
+extern const u8 gText_WelcomeToHOF_Female[];
 extern const u8 gText_Number[];
 extern const u8 gText_Level[];
 extern const u8 gText_IDNumber[];
@@ -998,6 +1022,7 @@ extern const u8 gText_PokedexPokemon[];
 extern const u8 gText_HT[];
 extern const u8 gText_WT[];
 extern const u8 gText_Lbs[];
+extern const u8 gText_Mts[];
 extern const u8 gText_Cry[];
 extern const u8 gText_NextDataCancel[];
 extern const u8 gText_Next[];
@@ -1386,6 +1411,7 @@ extern const u8 gText_YourName[];
 extern const u8 gText_BoxName[];
 extern const u8 gText_PkmnsNickname[];
 extern const u8 gText_RivalsName[];
+extern const u8 gText_PkmnsQuestion[];
 
 // pokemon_storage_system
 extern const u8 gText_WithdrawPokemon[];

@@ -834,7 +834,7 @@ Text_WelcomeTimeCapsule::
 	.string "TIME CAPSULE.$"
 
 Text_PleaseComeAgain::
-	.string "Please come again!$"
+	.string "¡Vuelve cuando quieras!$"
 
 @ Unused
 Text_HavingDiscountSaleToday::
@@ -852,11 +852,11 @@ Text_MakingPreparations::
 	.string "じゅんびちゅうです！$"
 
 Text_WantWhichFloor::
-	.string "Which floor do you want?$"
+	.string "¿Qué piso quieres?$"
 
 Text_BagItemCanBeRegistered::
-	.string "An item in the BAG can be\n"
-	.string "registered to SELECT for easy use.$"
+	.string "Puedes asignar un objeto en la\n"
+	.string "MOCHILA a SELECT para uso fácil.$"
 
 @ Unused (email from R/S Rivals computer)
 Text_TrainerSchoolEmail::
@@ -870,7 +870,7 @@ Text_TrainerSchoolEmail::
 	.string "‥‥　‥‥　‥‥$"
 
 Text_PlayerBootedUpPC::
-	.string "{PLAYER} booted up the PC.$"
+	.string "{PLAYER} encendió la PC.$"
 
 @ Unused
 Text_LinkWasCanceled::
@@ -878,29 +878,29 @@ Text_LinkWasCanceled::
 
 @ Unused
 Text_GiveNicknameToReceivedMon::
-	.string "Want to give a nickname to the\n"
-	.string "{STR_VAR_2} you received?$"
+	.string "¿Quieres darle un apodo al\n"
+	.string "{STR_VAR_2} que recibiste?$"
 
 gText_PkmnFainted3::
-	.string "{STR_VAR_1} fainted…\p"
+	.string "{STR_VAR_1} se debilitó…\p"
 	.string "$"
 
 Text_WelcomeWantToHealPkmn::
-	.string "Welcome to our POKéMON CENTER!\p"
-	.string "Would you like me to heal your\n"
-	.string "POKéMON back to perfect health?$"
+	.string "¡Bienvenid{OA} al CENTRO POKéMON!\p"
+	.string "¿Quieres que nos ocupemos de los\n"
+	.string "POKéMON de tu equipo?$"
 
 Text_TakeYourPkmnForFewSeconds::
-	.string "Okay, I'll take your POKéMON for a\n"
-	.string "few seconds.$"
+	.string "Muy bien, tomaré a tus POKéMON por\n"
+	.string "unos segundos.$"
 
 Text_WeHopeToSeeYouAgain::
-	.string "We hope to see you again!$"
+	.string "¡Vuelve siempre que quieras!$"
 
 Text_RestoredPkmnToFullHealth::
-	.string "Thank you for waiting.\n"
-	.string "We've restored your POKéMON to\l"
-	.string "full health.$"
+	.string "Gracias por esperar.\n"
+	.string "Restauramos la salud de tus\l"
+	.string "POKéMON por completo.$"
 
 	.include "data/text/surf.inc"
 
@@ -915,21 +915,21 @@ Text_BigHoleInTheWall::
 	.string "おおきな　あなが　あいている！$"
 
 Text_WirelessClubUndergoingAdjustments::
-	.string "I'm terribly sorry.\n"
-	.string "The POKéMON WIRELESS CLUB is\l"
-	.string "undergoing adjustments now.$"
+	.string "Lo siento mucho.\n"
+	.string "El CLUB INALÁMBRICO POKéMON esta\l"
+	.string "siendo modificado.$"
 
 Text_AppearsToBeUndergoingAdjustments::
-	.string "It appears to be undergoing\n"
-	.string "adjustments…$"
+	.string "Parece que se están haciendo\n"
+	.string "ajustes…$"
 
 Text_HandedOverItem::
-	.string "{PLAYER} handed over the\n"
+	.string "{PLAYER} entregó\n"
 	.string "{STR_VAR_1}.$"
 
 Text_GiveNicknameToThisMon::
-	.string "Do you want to give a nickname to\n"
-	.string "this {STR_VAR_1}?$"
+	.string "¿Quieres darle un apodo a\n"
+	.string "este {STR_VAR_1}?$"
 
 	.include "data/text/itemfinder.inc"
 	.include "data/text/route23.inc"
@@ -937,28 +937,30 @@ Text_GiveNicknameToThisMon::
 	.include "data/text/ingame_trade.inc"
 
 Text_CardKeyOpenedDoor::
-	.string "Bingo!\n"
-	.string "The CARD KEY opened the door!$"
+	.string "¡Bingo!\n"
+	.string "¡La LLAVE MAGNÉTICA abrió\l"
+	.string "la puerta!$"
 
 Text_ItNeedsCardKey::
-	.string "No!\n"
-	.string "It needs a CARD KEY!$"
+	.string "¡No!\n"
+	.string "¡Necesita una LLAVE MAGNÉTICA!$"
 
 Text_AccessedProfOaksPC::
-	.string "Accessed PROF. OAK's PC…\p"
-	.string "Accessed the POKéDEX Rating\n"
-	.string "System…$"
+	.string "Accediste a la PC del PROF. OAK…\p"
+	.string "Accediste al Sistema de Evaluación\n"
+	.string "de la POKéDEX…$"
 
 Text_HavePokedexRated::
-	.string "Would you like to have your\n"
-	.string "POKéDEX rated?$"
+	.string "¿Quieres que tu POKéDEX sea\n"
+	.string "evaluada?$"
 
 Text_ClosedLinkToProfOaksPC::
-	.string "Closed link to PROF. OAK's PC.$"
+	.string "Se cerró la conexión con la PC\n"
+	.string "del PROFESOR OAK.$"
 
 Text_VoiceRangOutDontRunAway::
-	.string "Someone's voice rang out,\n"
-	.string "“Don't run away!”$"
+	.string "La voz de alguien resonó,\n"
+	.string "“¡No corras!”$"
 
 @ Uncear what the below unused JP texts were for
 Text_IdLikeToSeeRequest::
@@ -983,32 +985,32 @@ Text_TheDoorIsClosed::
 	.string "ドアは　しまっている‥$"
 
 Text_TheDoorIsOpen::
-	.string "The door is open…$"
+	.string "La puerta esta abierta…$"
 
 	.include "data/text/pc_transfer.inc"
 	.include "data/text/white_out.inc"
 	.include "data/text/poke_mart.inc"
 
 Text_MonFlewAway::
-	.string "The {STR_VAR_1} flew away!$"
+	.string "¡{STR_VAR_1} huyó!$"
 
 Text_TheresBedLetsRest::
 	.string "ベッドが　ある‥‥\n"
 	.string "やすんでいこう$"
 
 Text_FoundTMHMContainsMove::
-	.string "{PLAYER} found a {STR_VAR_2}!\n"
-	.string "It contains {STR_VAR_1}.$"
+	.string "¡{PLAYER} encontró {STR_VAR_2}!\n"
+	.string "Contiene {STR_VAR_1}.$"
 
 	.include "data/text/seagallop.inc"
 
 @ Call for legendary bird trio
 Text_Gyaoo::
-	.string "Gyaoo!$"
+	.string "¡Gyaoo!$"
 
 Text_MoveCanOnlyBeLearnedOnce::
-	.string "This move can be learned only\n"
-	.string "once. Is that okay?$"
+	.string "Este movimiento solo puede ser\n"
+	.string "aprendido una vez. ¿Eso está bien?$"
 
 EventScript_ResetAllMapFlags::
 	setflag FLAG_HIDE_OAK_IN_HIS_LAB
