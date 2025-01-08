@@ -1,7 +1,7 @@
 # Default variables
 
 GAME_VERSION  ?= FIRERED
-GAME_REVISION ?= 0
+GAME_REVISION ?= 1
 GAME_LANGUAGE ?= ENGLISH
 
 # Builds the ROM using a modern compiler
@@ -25,14 +25,14 @@ BUILD_DIR := build
 
 # Version
 ifeq ($(GAME_VERSION),FIRERED)
-  TITLE       := POKEMON FIRE
+  TITLE       := POKEMON ROJO
   GAME_CODE   := BPR
-  BUILD_NAME  := firered
+  BUILD_NAME  := rojofuego
 else
 ifeq ($(GAME_VERSION),LEAFGREEN)
-  TITLE       := POKEMON LEAF
+  TITLE       := POKEMON HOJA
   GAME_CODE   := BPG
-  BUILD_NAME  := leafgreen
+  BUILD_NAME  := verdehoja
 else
   $(error unknown version $(GAME_VERSION))
 endif
