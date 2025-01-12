@@ -40,7 +40,7 @@ struct EReaderData
 
 static void Task_EReader(u8);
 
-struct EReaderData gEReaderData;
+COMMON_DATA struct EReaderData gEReaderData = {0};
 
 
 static void EReader_Load(struct EReaderData *eReader, size_t size, const void *data)
