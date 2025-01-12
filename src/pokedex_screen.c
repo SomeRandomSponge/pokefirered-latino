@@ -13,7 +13,6 @@
 #include "pokedex_screen.h"
 #include "data.h"
 #include "pokedex.h"
-#include "pokedex_plus_hgss.h"
 #include "trainer_pokemon_sprites.h"
 #include "decompress.h"
 #include "constants/songs.h"
@@ -139,11 +138,6 @@ static void ItemPrintFunc_OrderedListMenu(u8 windowId, u32 itemId, u8 y);
 static void Task_DexScreen_RegisterNonKantoMonBeforeNationalDex(u8 taskId);
 static void Task_DexScreen_RegisterMonToPokedex(u8 taskId);
 
-static u32 GetMeasurementTextPositions(u32 textElement);
-static void PrintUnknownMonMeasurements(void);
-static void PrintOwnedMonMeasurements(u16 species);
-static void PrintOwnedMonHeight(u16 species);
-static void PrintOwnedMonWeight(u16 species);
 static u8* GetUnknownMonHeightString(void);
 static u8* GetUnknownMonWeightString(void);
 static u8* ReplaceDecimalSeparator(const u8* originalString);
@@ -1310,13 +1304,6 @@ static void DexScreen_InitGfxForNumericalOrderList(void)
 
 static void Task_DexScreen_CharacteristicOrder(u8 taskId)
 {
-
-    if (POKEDEX_PLUS_HGSS)
-    {
-        CB2_OpenPokedexPlusHGSS();
-        return;
-    }
-
     switch (sPokedexScreenData->state)
     {
     case 0:
@@ -3606,87 +3593,4 @@ void DexScreen_PrintStringWithAlignment(const u8 * str, s32 mode)
     }
 
     DexScreen_AddTextPrinterParameterized(0, FONT_NORMAL, str, x, 2, 4);
-}
-
-void PrintMonMeasurements(u16 species, u32 owned)
-{
-    u32 x = GetMeasurementTextPositions(DEX_HEADER_X);
-    u32 yTop = GetMeasurementTextPositions(DEX_Y_TOP);
-    u32 yBottom = GetMeasurementTextPositions(DEX_Y_BOTTOM);
-
-    DexScreen_AddTextPrinterParameterized(0, FONT_SMALL, gText_HT, x, yTop, 0);
-    DexScreen_AddTextPrinterParameterized(0, FONT_SMALL, gText_WT, x, yBottom, 0);
-
-    if (owned)
-        PrintOwnedMonMeasurements(species);
-    else
-        PrintUnknownMonMeasurements();
-}
-
-static u32 GetMeasurementTextPositions(u32 textElement)
-{
-    if (!POKEDEX_PLUS_HGSS)
-        return textElement;
-
-    switch(textElement)
-    {
-        case DEX_HEADER_X:
-            return (DEX_HEADER_X + DEX_HGSS_HEADER_X_PADDING);
-        case DEX_Y_TOP:
-            return (DEX_Y_TOP + DEX_HGSS_Y_TOP_PADDING);
-        case DEX_Y_BOTTOM:
-            return (DEX_Y_BOTTOM + DEX_HGSS_Y_BOTTOM_PADDING);
-        default:
-        case DEX_MEASUREMENT_X:
-            return (DEX_MEASUREMENT_X + DEX_HGSS_MEASUREMENT_X_PADDING);
-    }
-}
-
-static void PrintOwnedMonMeasurements(u16 species)
-{
-    PrintOwnedMonHeight(species);
-    PrintOwnedMonWeight(species);
-}
-
-static void PrintUnknownMonMeasurements(void)
-{
-    u8* heightString = GetUnknownMonHeightString();
-    u8* weightString = GetUnknownMonWeightString();
-
-    u32 x = GetMeasurementTextPositions(DEX_MEASUREMENT_X);
-    u32 yTop = GetMeasurementTextPositions(DEX_Y_TOP);
-    u32 yBottom = GetMeasurementTextPositions(DEX_Y_BOTTOM);
-
-    DexScreen_AddTextPrinterParameterized(0, FONT_SMALL, heightString, x, yTop, 0);
-    DexScreen_AddTextPrinterParameterized(0, FONT_SMALL, weightString, x, yBottom, 0);
-
-    Free(heightString);
-    Free(weightString);
-}
-
-static void PrintOwnedMonHeight(u16 species)
-{
-    u32 height = GetSpeciesHeight(species);
-    u8* heightString;
-
-    u32 x = GetMeasurementTextPositions(DEX_MEASUREMENT_X);
-    u32 yTop = GetMeasurementTextPositions(DEX_Y_TOP);
-
-    heightString = ConvertMonHeightToString(height);
-
-    DexScreen_AddTextPrinterParameterized(0, FONT_SMALL,heightString, x, yTop, 0);
-    Free(heightString);
-}
-
-static void PrintOwnedMonWeight(u16 species)
-{
-    u32 weight = GetSpeciesWeight(species);
-    u8* weightString;
-    u32 x = GetMeasurementTextPositions(DEX_MEASUREMENT_X);
-    u32 yBottom = GetMeasurementTextPositions(DEX_Y_BOTTOM);
-
-    weightString = ConvertMonWeightToString(weight);
-
-    DexScreen_AddTextPrinterParameterized(0, FONT_SMALL,weightString, x, yBottom, 0);
-    Free(weightString);
 }
