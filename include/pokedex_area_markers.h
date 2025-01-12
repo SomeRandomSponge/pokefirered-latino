@@ -6,4 +6,6 @@ void DestroyPokedexAreaMarkers(u8 taskId);
 u8 CreatePokedexAreaMarkers(u16 species, u16 tilesTag, u8 palIdx, u8 y);
 u8 GetNumPokedexAreaMarkers(u8 taskId);
 
+void ShowPokedexAreaScreen(u16, u8 *);
+
 #endif //GUARD_POKEDEX_AREA_MARKERS_H
